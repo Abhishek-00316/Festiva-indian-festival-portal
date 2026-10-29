@@ -173,11 +173,11 @@ Suggestions and contributions that improve cultural accuracy, usability, accessi
 
 Before contributing, ensure that changes do not expose secrets or introduce regressions in existing features.
 
-## 📚 Cultural Responsibility
+##  Cultural Responsibility
 
 FESTIVA aims to present India's cultural diversity respectfully. Festival descriptions, regional associations, and statistics should be supported by reliable sources. Cultural traditions can vary across regions and communities.
 
-## 📜 License
+##  License
 
 A license has not yet been specified. Add an appropriate license after deciding how the project may be reused and distributed.
 
